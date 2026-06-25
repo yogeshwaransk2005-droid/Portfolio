@@ -32,7 +32,7 @@ function Hero() {
                 "Java Developer",
                 "Full Stack Developer",
                 ".NET Developer",
-                "React Developer",
+                
               ]}
               typeSpeed={60}
               backSpeed={45}
@@ -46,7 +46,7 @@ function Hero() {
           </p>
 
           <div className="hero-actions">
-            <a href="/resume.pdf" className="btn btn-primary" download>
+            <a href="Yogesh_SK_Resume.pdf" className="btn btn-primary" download>
               Download Resume
             </a>
             <a href="#contact" className="btn btn-secondary">
@@ -64,7 +64,7 @@ function Hero() {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/yogesh"
+              href="https://github.com/yogeshwaransk2005-droid"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"
@@ -85,7 +85,7 @@ function Hero() {
         >
           <div className="hero-avatar">
             <img
-              src="05-9025378590.jpg (1).jpeg"
+              src="Yogii_Image.jpg"
               alt="Yogesh profile"
             />
           </div>

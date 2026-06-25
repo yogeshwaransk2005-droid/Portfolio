@@ -16,7 +16,7 @@ function Footer() {
             >
               <FaLinkedin />
             </a>
-            <a href="https://github.com/yogesh" target="_blank" rel="noreferrer" aria-label="GitHub">
+            <a href="https://github.com/yogeshwaransk2005-droid" target="_blank" rel="noreferrer" aria-label="GitHub">
               <FaGithub />
             </a>
             <a href="mailto:yogeshwaransk2005@gmail.com" aria-label="Email">

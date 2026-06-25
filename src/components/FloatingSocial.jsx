@@ -13,7 +13,7 @@ function FloatingSocial() {
         <FaLinkedin />
       </a>
       <a
-        href="https://github.com/yogesh"
+        href="https://github.com/yogeshwaransk2005-droid"
         target="_blank"
         rel="noreferrer"
         aria-label="GitHub"
